@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-Direct link for the website : **file:///C:/Users/sumit/Downloads/student_performance_predictor%20(1).html**
+[Direct link for the website](file:///C:/Users/sumit/Downloads/student_performance_predictor%20(1).html)
 
 A Machine Learning-based web application that predicts student academic performance using factors such as attendance, study hours, previous marks, and assignment completion. Built with Python, HTML, CSS, and SQL, the system provides real-time predictions through an interactive web interface.
 
